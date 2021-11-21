@@ -1,0 +1,16 @@
+[18-Jun-2021 10:07:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/digisoftsol/public_html/deltastar.ae/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/User.php on line 9
+[11-Aug-2021 00:39:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digisoftsol/public_html/deltastar.ae/app/HomeSlider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/HomeSlider.php on line 7
+[11-Aug-2021 00:41:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/digisoftsol/public_html/deltastar.ae/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/User.php on line 9
+[06-Sep-2021 19:33:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digisoftsol/public_html/deltastar.ae/app/HomeSlider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/HomeSlider.php on line 7

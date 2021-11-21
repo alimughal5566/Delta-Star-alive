@@ -1,0 +1,32 @@
+[06-Sep-2021 07:51:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digisoftsol/public_html/deltastar.ae/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[06-Sep-2021 07:51:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digisoftsol/public_html/deltastar.ae/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[06-Sep-2021 07:51:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digisoftsol/public_html/deltastar.ae/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[06-Sep-2021 07:51:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digisoftsol/public_html/deltastar.ae/database/migrations/2021_06_07_104229_create_genaral_settings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/database/migrations/2021_06_07_104229_create_genaral_settings_table.php on line 7
+[06-Sep-2021 19:37:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digisoftsol/public_html/deltastar.ae/database/migrations/2021_06_27_120115_create_home_pages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/database/migrations/2021_06_27_120115_create_home_pages_table.php on line 7
+[06-Sep-2021 19:37:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digisoftsol/public_html/deltastar.ae/database/migrations/2021_06_27_173152_create_home_sliders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/database/migrations/2021_06_27_173152_create_home_sliders_table.php on line 7
+[06-Sep-2021 19:37:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digisoftsol/public_html/deltastar.ae/database/migrations/2021_06_29_183928_create_features_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/database/migrations/2021_06_29_183928_create_features_table.php on line 7
+[06-Sep-2021 19:37:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digisoftsol/public_html/deltastar.ae/database/migrations/2021_06_30_181808_create_what_we_dos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/database/migrations/2021_06_30_181808_create_what_we_dos_table.php on line 7

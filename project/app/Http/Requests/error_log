@@ -1,0 +1,12 @@
+[09-Sep-2021 00:05:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/digisoftsol/public_html/deltastar.ae/app/Http/Requests/PasswordRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Http/Requests/PasswordRequest.php on line 8
+[09-Sep-2021 00:05:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/digisoftsol/public_html/deltastar.ae/app/Http/Requests/ProfileRequest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Http/Requests/ProfileRequest.php on line 9
+[09-Sep-2021 00:05:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/digisoftsol/public_html/deltastar.ae/app/Http/Requests/UserRequest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Http/Requests/UserRequest.php on line 9

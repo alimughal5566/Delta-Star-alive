@@ -1,0 +1,20 @@
+[06-Sep-2021 07:47:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/digisoftsol/public_html/deltastar.ae/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Providers/AppServiceProvider.php on line 8
+[06-Sep-2021 07:47:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/digisoftsol/public_html/deltastar.ae/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Providers/AuthServiceProvider.php on line 8
+[06-Sep-2021 07:47:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/digisoftsol/public_html/deltastar.ae/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Providers/BroadcastServiceProvider.php on line 8
+[06-Sep-2021 07:47:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/digisoftsol/public_html/deltastar.ae/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Providers/EventServiceProvider.php on line 10
+[06-Sep-2021 07:47:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/digisoftsol/public_html/deltastar.ae/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Providers/RouteServiceProvider.php on line 8

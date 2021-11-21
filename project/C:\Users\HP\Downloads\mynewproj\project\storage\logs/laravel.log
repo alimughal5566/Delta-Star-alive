@@ -1,0 +1,17 @@
+[2021-11-21 14:06:17] local.ERROR: Command "config:cahce" is not defined.
+
+Did you mean one of these?
+    config:cache
+    config:clear {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"config:cahce\" is not defined.
+
+Did you mean one of these?
+    config:cache
+    config:clear at /home/u678948676/domains/deltastar.ae/public_html/project/vendor/symfony/console/Application.php:682)
+[stacktrace]
+#0 /home/u678948676/domains/deltastar.ae/public_html/project/vendor/symfony/console/Application.php(255): Symfony\\Component\\Console\\Application->find('config:cahce')
+#1 /home/u678948676/domains/deltastar.ae/public_html/project/vendor/symfony/console/Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 /home/u678948676/domains/deltastar.ae/public_html/project/vendor/laravel/framework/src/Illuminate/Console/Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /home/u678948676/domains/deltastar.ae/public_html/project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(129): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /home/u678948676/domains/deltastar.ae/public_html/project/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 

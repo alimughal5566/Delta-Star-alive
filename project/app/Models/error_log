@@ -1,0 +1,16 @@
+[06-Sep-2021 07:46:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digisoftsol/public_html/deltastar.ae/app/Models/GenaralSettings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Models/GenaralSettings.php on line 7
+[06-Sep-2021 19:34:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digisoftsol/public_html/deltastar.ae/app/Models/Features.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Models/Features.php on line 7
+[06-Sep-2021 19:34:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digisoftsol/public_html/deltastar.ae/app/Models/HomePage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Models/HomePage.php on line 7
+[06-Sep-2021 19:34:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digisoftsol/public_html/deltastar.ae/app/Models/WhatWeDo.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Models/WhatWeDo.php on line 8

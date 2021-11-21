@@ -1,0 +1,1 @@
+[06-Sep-2021 07:47:54 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Validation\Rule' not found in /home/digisoftsol/public_html/deltastar.ae/app/Rules/CurrentPasswordCheckRule.php on line 8

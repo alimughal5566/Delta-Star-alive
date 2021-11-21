@@ -1,0 +1,8 @@
+[06-Sep-2021 07:52:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/digisoftsol/public_html/deltastar.ae/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/database/seeds/DatabaseSeeder.php on line 5
+[06-Sep-2021 07:52:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/digisoftsol/public_html/deltastar.ae/database/seeds/UsersTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/database/seeds/UsersTableSeeder.php on line 7

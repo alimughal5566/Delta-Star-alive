@@ -1,0 +1,16 @@
+[18-Jun-2021 06:29:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/digisoftsol/public_html/deltastar.ae/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/routes/api.php on line 17
+[18-Jun-2021 06:29:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/digisoftsol/public_html/deltastar.ae/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/routes/channels.php on line 16
+[18-Jun-2021 06:29:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/digisoftsol/public_html/deltastar.ae/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/routes/console.php on line 17
+[18-Jun-2021 06:29:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/digisoftsol/public_html/deltastar.ae/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/routes/web.php on line 17

@@ -1,0 +1,28 @@
+[09-Sep-2021 00:04:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/digisoftsol/public_html/deltastar.ae/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Http/Controllers/Controller.php on line 10
+[09-Sep-2021 00:04:43 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/digisoftsol/public_html/deltastar.ae/app/Http/Controllers/FeaturesController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Http/Controllers/FeaturesController.php on line 9
+[09-Sep-2021 00:04:45 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/digisoftsol/public_html/deltastar.ae/app/Http/Controllers/GenaralSettingsController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Http/Controllers/GenaralSettingsController.php on line 15
+[09-Sep-2021 00:04:46 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/digisoftsol/public_html/deltastar.ae/app/Http/Controllers/HomeController.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Http/Controllers/HomeController.php on line 5
+[09-Sep-2021 00:04:48 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/digisoftsol/public_html/deltastar.ae/app/Http/Controllers/ProfileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Http/Controllers/ProfileController.php on line 9
+[09-Sep-2021 00:04:49 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/digisoftsol/public_html/deltastar.ae/app/Http/Controllers/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Http/Controllers/UserController.php on line 9
+[09-Sep-2021 00:04:51 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/digisoftsol/public_html/deltastar.ae/app/Http/Controllers/WhatWeDoController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digisoftsol/public_html/deltastar.ae/app/Http/Controllers/WhatWeDoController.php on line 9
