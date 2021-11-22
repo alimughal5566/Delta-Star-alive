@@ -4,13 +4,13 @@
     'name' => 'DeltaStar',
     'env' => 'local',
     'debug' => true,
-    'url' => 'http://deltastar.ae',
+    'url' => 'http://localhost',
     'asset_url' => NULL,
     'timezone' => 'UTC',
     'locale' => 'en',
     'fallback_locale' => 'en',
     'faker_locale' => 'en_US',
-    'key' => 'base64:GEAgIsSIZm6v3rpt+FMRT35qnVAS6bGY5nnD7k1JsPM=',
+    'key' => 'base64:PdyD3JRzFfZ46vAxnyBsKu7PwhaRcjJgZ8zulL0w2Aw=',
     'cipher' => 'AES-256-CBC',
     'providers' => 
     array (
@@ -349,7 +349,7 @@
       array (
         'driver' => 'local',
         'root' => '/home/u678948676/domains/deltastar.ae/public_html/project/storage/app/public',
-        'url' => 'http://deltastar.ae/storage',
+        'url' => 'http://localhost/storage',
         'visibility' => 'public',
       ),
       's3' => 
