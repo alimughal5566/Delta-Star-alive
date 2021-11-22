@@ -50,18 +50,19 @@ class WhatWeDoController extends Controller
     }
     public function updateWhatWeDo(Request $request){
 //    dd($request);
+
+        $data=WhatWeDo::find($request->id);
+            $data->title=$request->title;
+            $data->description=$request->description;
+            $data->long_description=$request->long_description;
         if($request ->hasFile('thumbnail')){
             $image = $request->file('thumbnail');
             $imageName = time().'feature'.'.'.$image->getClientOriginalExtension();
             $destinationPath = public_path('assets/demos/construction/images/WhatWeDo');
             $image->move($destinationPath, $imageName);
+            $data->thumbnail=$imageName;
         }
-        $data=WhatWeDo::where('id',$request->id)->update([
-            'title'=>$request->title,
-            'description'=>$request->description,
-            'long_description'=>$request->long_description,
-            'thumbnail'=>$imageName??''
-        ]);
+        $data->save();
         if($data){
             return redirect()->route('home.whatwedo')->with('status','data Updated Successfully');
         }

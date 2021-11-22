@@ -48,19 +48,18 @@ class PortfolioController extends Controller
         }
     }
     public function updatePortfolio(Request $request){
-//    dd($request);
+
+        $data=Portfolio::find($request->id);
+        $data->title=$request->title;
+        $data->description=$request->description;
+        $data->long_description=$request->long_description;
         if($request ->hasFile('thumbnail')){
             $image = $request->file('thumbnail');
-            $imageName = time().'Portfolio'.'.'.$image->getClientOriginalExtension();
+            $imageName = time().'feature'.'.'.$image->getClientOriginalExtension();
             $destinationPath = public_path('assets/demos/construction/images/Portfolio');
             $image->move($destinationPath, $imageName);
+            $data->thumbnail=$imageName;
         }
-        $data=Portfolio::where('id',$request->id)->update([
-            'title'=>$request->title,
-            'description'=>$request->description,
-            'long_description'=>$request->long_description,
-            'thumbnail'=>$imageName??''
-        ]);
         if($data){
             return redirect()->route('home.portfolio')->with('status','data Updated Successfully');
         }

@@ -90,9 +90,11 @@
                                         <label for="template-contactform-service">Services</label>
                                         <select id="template-contactform-service" name="service" class="sm-form-control">
                                             <option value="">-- Select One --</option>
-                                            <option value="plumbilg">plumbilg</option>
+                                            <option value="plumbilg">plumbing</option>
                                             <option value="construction">construction</option>
                                             <option value="maintainance">maintainance</option>
+                                            <option value="Decor">Decor</option>
+                                            <option value="MEP">MEP</option>
                                         </select>
                                     </div>
 
