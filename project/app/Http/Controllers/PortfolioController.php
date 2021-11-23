@@ -48,7 +48,7 @@ class PortfolioController extends Controller
         }
     }
     public function updatePortfolio(Request $request){
-
+//dd($request->all());
         $data=Portfolio::find($request->id);
         $data->title=$request->title;
         $data->description=$request->description;
@@ -60,6 +60,7 @@ class PortfolioController extends Controller
             $image->move($destinationPath, $imageName);
             $data->thumbnail=$imageName;
         }
+        $data->save();
         if($data){
             return redirect()->route('home.portfolio')->with('status','data Updated Successfully');
         }
