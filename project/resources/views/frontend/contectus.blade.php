@@ -67,9 +67,11 @@
                   <label for="template-contactform-service">Services</label>
                   <select id="template-contactform-service" name="service" class="sm-form-control">
                     <option value="">-- Select One --</option>
-                    <option value="plumbilg">plumbilg</option>
-                    <option value="construction">construction</option>
-                    <option value="maintainance">maintainance</option>
+                    <option value="plumbilg">Plumbing</option>
+                    <option value="construction">Construction</option>
+                    <option value="maintainance">Maintainance</option>
+                    <option value="maintainance">MEP</option>
+                    <option value="maintainance">Decor</option>
                   </select>
                 </div>
 
