@@ -112,8 +112,8 @@
                   <div class="col-md-4">
                     <div class="reult_imgd">
                       <i class="fa fa-id-badge" aria-hidden="true"></i>
-                      <h2>700</h2>
-                      <p>QUALIFIED STAFF</p>
+                      <h2></h2>
+                      <p></p>
                     </div>
                   </div>
                 </div>

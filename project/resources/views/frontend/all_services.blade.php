@@ -62,33 +62,33 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="main_start_p">
-                            <p>Label</p>
+                            <p>Safety</p>
                            <div class="progress">
-                              <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100</div>
+                              <div class="progress-bar" role="progressbar" aria-valuenow="99" aria-valuemin="99" aria-valuemax="99">99</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="main_start_p">
-                            <p>Label</p>
+                            <p>Quality</p>
                            <div class="progress">
-                              <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="50">100</div>
+                              <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="95" aria-valuemax="100">95</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="main_start_p">
-                            <p>Label</p>
+                            <p>Management & Staff</p>
                            <div class="progress">
-                              <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100</div>
+                              <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="80" aria-valuemax="100">80</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="main_start_p">
-                            <p>Label</p>
+                            <p>Client Satisfaction </p>
                            <div class="progress">
-                              <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100</div>
+                              <div class="progress-bar" role="progressbar" aria-valuenow="78" aria-valuemin="78" aria-valuemax="78">78</div>
                             </div>
                         </div>
                     </div>
