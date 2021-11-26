@@ -108,7 +108,7 @@
 
             <address>
               <strong>Head Office:</strong><br>
-               {{$general_settings->address1}}<br>
+              <a href="https://maps.google.com/?q={{$general_settings->address1}}">{{$general_settings->address1}}</a><br>
 {{--              {{$general_settings->address2}}<br>--}}
             </address>
             <abbr title="Phone Number"><strong>Phone:</strong></abbr>{{$general_settings->phone1}}<br>
@@ -122,7 +122,7 @@
 
             <address>
               <strong>Branch:</strong><br>
-                {{$general_settings->address2}}<br>
+              <a href="https://maps.google.com/?q={{$general_settings->address2}}">{{$general_settings->address2}}</a><br>
 
 {{--              Behind Grand mall Rashidiyah-3 shaheen building 201 ajman--}}
               <!-- San Francisco, CA 94107<br> -->

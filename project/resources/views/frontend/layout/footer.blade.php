@@ -123,7 +123,8 @@
                 <div class="col-md-4">
                     <div class="about_main_footer">
                         <h5>Information</h5>
-                        <p> <i class="fa fa-map-marker" aria-hidden="true"></i> Address: # 1. Ras  Al Khor Dubai U.A.E, <br> # 2. Behind Grand Mall, Rashidiyah-3, shaheen building 201 ,Ajman</p>
+                        <p> <i class="fa fa-map-marker" aria-hidden="true"></i><a href="https://maps.google.com/?q=Ras Al Khor - Dubai - United Arab Emirates"> Address: # 1. Ras  Al Khor Dubai U.A.E,</a> <br> # 2.
+                            <a href="https://maps.google.com/?q=Behind Grand Mall, Rashidiyah-3, shaheen building 201 ,Ajman">Behind Grand Mall, Rashidiyah-3, shaheen building 201 ,Ajman</a></p>
                         <p><i class="fa fa-mobile" aria-hidden="true"></i> Custom Support & Sale:
                             04 238 33 93 </p>
                             <p> <i class="i-plain icon-line-clock"></i> Working Time:
