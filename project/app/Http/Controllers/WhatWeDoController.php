@@ -9,7 +9,7 @@ use Illuminate\Http\Request;
 class WhatWeDoController extends Controller
 {
     public function homeWhatWeDo(){
-        $data=WhatWeDo::all();
+        $data=WhatWeDo::paginate(5);
 //        dd($data);
         return view('backend.generalsetting.home-page-whatwedo',compact('data'));
     }

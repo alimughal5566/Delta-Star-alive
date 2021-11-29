@@ -72,6 +72,8 @@
                                 </table>
                             </div>
                         </div>
+                        {{$data->links()}}
+
                     </div>
                     {{--          <div class="alert alert-danger">--}}
                     {{--            <span style="font-size:18px;">--}}

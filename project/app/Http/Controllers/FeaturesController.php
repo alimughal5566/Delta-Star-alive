@@ -9,7 +9,7 @@ use Illuminate\Http\Request;
 class FeaturesController extends Controller
 {
     public function homeFeatures(){
-        $data=Features::all();
+        $data=Features::paginate(5);
 //        dd($data);
         return view('backend.generalsetting.home-page-featuers',compact('data'));
     }

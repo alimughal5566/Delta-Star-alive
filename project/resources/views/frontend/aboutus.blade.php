@@ -109,13 +109,6 @@
                       <p>HAPPY CLIENTS</p>
                     </div>
                   </div>
-                  <div class="col-md-4">
-                    <div class="reult_imgd">
-                      <i class="fa fa-id-badge" aria-hidden="true"></i>
-                      <h2></h2>
-                      <p></p>
-                    </div>
-                  </div>
                 </div>
                 </div>
               </div>

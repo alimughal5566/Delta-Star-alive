@@ -9,7 +9,8 @@ use Illuminate\Http\Request;
 class PortfolioController extends Controller
 {
     public function homePortfolio(){
-        $data=Portfolio::all();
+        $data=Portfolio::paginate(5);
+//        dd($data);
         return view('backend.generalsetting.home-page-portfolio',compact('data'));
     }
     public function addNewPortfolio(Request $request){
